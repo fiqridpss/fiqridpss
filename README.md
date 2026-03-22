@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @fiqridpss
-- 👀 I’m interested in Web Development
-- 🌱 I'm a computer science student
+Web & ML
 
 <!---
 fiqridpss/fiqridpss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
